@@ -1,5 +1,5 @@
 """
-WSGI config for rockpaperscissors project.
+WSGI config for Caco project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
